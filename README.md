@@ -37,6 +37,7 @@
   ╔══════════════════════════════════════╗
   ║  🐧  Python-разработчик             ║
   ║  🎮  Game Developer                 ║
+  ║  🐧  Linux энтузиаст                ║
   ║  💼  Freelancer                     ║
   ╚══════════════════════════════════════╝
 ```
@@ -53,26 +54,36 @@
 class Nikolay:
     def __init__(self):
         self.name = "Николай"
-        self.role = "Python Developer"
+        self.role = "Python Developer & Linux Learner"
         self.status = "Фрилансер"
 
     def say_hello(self):
-        return "Привет! Я делаю игры и полезные штуки на Python 🐍"
+        return "Привет! Я делаю игры на Python и настраиваю Linux 🐍🐧"
 
-    def current_project = "Tux Runner 🐧"
+    def current_projects = ["Tux Runner 🐧", "Niri Dotfiles 🖥️"]
+    def learning = ["Linux", "Wayland", "Bash", "Neovim", "Systemd"]
 ```
 
 ---
 
 ## 🛠️ Стек технологий
 
+**Python:**
 ```
  Python    ████████████████████░░░░  90%
  Pygame    ██████████████████░░░░░░  80%
  Django    ████████████░░░░░░░░░░░░  55%
  SQL       ██████████████░░░░░░░░░░  65%
+```
+
+**Linux & System:**
+```
+ Arch      ████████████████████░░░░  90%
+ Niri      ██████████████████░░░░░░  75%
+ Bash      ████████████████░░░░░░░░  70%
  Git       ████████████████░░░░░░░░  70%
- Linux     ██████████████░░░░░░░░░░  60%
+ Systemd   ██████████████░░░░░░░░░░  60%
+ Neovim    ██████████████░░░░░░░░░░  55%
 ```
 
 ---
@@ -104,17 +115,20 @@ class Nikolay:
 </td>
 <td align="center" width="50%">
 
-### 🚀 Скоро новые проекты...
+### 🖥️ [Niri Dotfiles](https://github.com/nikojew06-design/niri-dotfiles)
 
 ```
-  _____
- |     |
- | ??? |  <-- Work in Progress
- |_____|
-   |||
+  ╔═══════════════════════╗
+  ║  Niri + DMS + iNiR    ║
+  ║  My First Rice        ║
+  ╚═══════════════════════╝
 ```
 
-> Следи за обновлениями!
+> Первый райс на Wayland  
+> Material You | Blur | Прозрачность  
+> **Полный setup-скрипт для Arch**
+
+`Niri` `DMS` `Bash` `Arch`
 
 </td>
 </tr>
